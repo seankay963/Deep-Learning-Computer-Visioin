@@ -1,0 +1,9 @@
+opencv-python
+opencv-contrib-python
+sklearn
+imutils
+tensorflow
+numpy
+keras
+matplotlib
+cx_freeze
